@@ -1,5 +1,3 @@
-# agentic-ai-learning
-
 # Agentic AI Learning Journey 🚀
 
 This repository documents my journey to master Agentic AI from basics to production-grade systems.
